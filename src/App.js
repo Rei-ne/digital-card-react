@@ -1,24 +1,32 @@
-import logo from './logo.svg';
 import './App.css';
+import { Wrapper } from './components/Styles/Wrapper.styled'
+import { GlobalStyles } from './components/Styles/Global.styled'
+import React from 'react'
+import Footer from './components/Footer'
+import Container from './components/Container'
+import reine from './assets/reine.png'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <GlobalStyles />
+      <Wrapper>
+        <img src={reine} alt="header image" />
+        {/* INFO */}
+        <Container />
+
+
+
+        <Footer />
+
+
+
+
+      </Wrapper>
+    </>
+
+
   );
 }
 
