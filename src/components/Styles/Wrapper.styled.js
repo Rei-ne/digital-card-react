@@ -1,8 +1,7 @@
 import styled from 'styled-components';
-
+// singular div containing images and text
 export const Wrapper = styled.section`
 max-width: 317px;
-background: #222831;
 position: absolute;
 right:40%;
 display: flex;

@@ -9,4 +9,6 @@ justify-content: center;
 gap: 24px;
 background: #5c7a9d;
 border-radius: 0px 0px 10px 10px;
+border-top: 0.8px solid #222831;
+;
 `;

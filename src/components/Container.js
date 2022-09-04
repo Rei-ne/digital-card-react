@@ -18,7 +18,7 @@ const Container = () => {
                     </MyButton>
                 </a>
                 <a href="https://github.com/Rei-ne" target="_blank">
-                    <MyButton>
+                    <MyButton className='github-btn'>
                         <FaGithubSquare />
                         Github
                     </MyButton>
@@ -29,13 +29,13 @@ const Container = () => {
 
             <h2>About me</h2>
             <p>I am a frontend developer interested in blockchain technologies, user experience design and software engineering.
-                <br /> I’m currently learning how to be a  fullstack blockchain software engineer, and I look forward to building world class applications that would impact the world</p>
+                <br /> I look forward to building world class applications that would impact the world!</p>
 
 
             {/* interests */}
 
             <h2>My interests</h2>
-            <p>I love art, music, and watching TV shows.
+            <p>I love art, music, and watching football.
                 <br />When i'm not coding, i'm listening to music or hanging out with my friends and listening to music with them <span>😀 </span> </p>
 
 

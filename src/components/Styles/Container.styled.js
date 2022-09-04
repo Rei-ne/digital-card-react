@@ -1,10 +1,10 @@
 import styled from 'styled-components'
-
+// text container
 
 export const StlyedContainer = styled.div`
 max-width: 100%;
 padding: 10px;
-background:#eef2e2;
+background:linear-gradient( #84acd6, #5C7A9D);
 
 
 
@@ -21,7 +21,7 @@ h1{
 ${'' /* frontend developer */}
 h3{
     text-align: center;
-    color: #5c7a9d;
+    color: #222831;
     margin: 0;
     padding: 0;
     font-size: 12.8px;
@@ -46,6 +46,7 @@ p{
     padding: 0px 10px;
     margin-bottom: 2px;
     width: 90%;
+    color: #222831;
 
 
 word-wrap: break-word;
