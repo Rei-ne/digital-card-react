@@ -9,12 +9,17 @@ margin: 0;
 padding: 10px 0;
 
 }
-p{
-  color:  #b5cae0;
+.github-btn{
+    margin-top: 5px;
 }
+
 .github-btn:hover{
     cursor: pointer;
     background-color:#5C7A9D;
     transition: all 0.4s ease-in;
 }
+
+.faGithub{
+        margin-right:7px;
+    }
 `;

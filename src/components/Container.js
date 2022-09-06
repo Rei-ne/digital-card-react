@@ -19,7 +19,7 @@ const Container = () => {
                 </a>
                 <a href="https://github.com/Rei-ne" target="_blank">
                     <MyButton className='github-btn'>
-                        <FaGithubSquare />
+                        <FaGithubSquare className='faGithub' />
                         Github
                     </MyButton>
                 </a>

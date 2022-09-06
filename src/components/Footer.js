@@ -9,11 +9,20 @@ import { FooterContainer } from './Styles/Footer.styled'
 const Footer = () => {
     return (
         <FooterContainer>
-            <FaSpotify
-            />
-            <FaTwitter />
-            <FaLinkedin />
-            <FaInstagramSquare />
+            <a href="https://github.com/Rei-ne" target="_blank">
+                <FaSpotify className='footer-ico'
+                />
+            </a>
+            <a href="https://github.com/Rei-ne" target="_blank">
+                <FaTwitter className='footer-ico' />
+            </a>
+
+            <a href="https://github.com/Rei-ne" target="_blank">
+                <FaLinkedin className='footer-ico' />
+            </a>
+            <a href="https://github.com/Rei-ne" target="_blank">
+                <FaInstagramSquare className='footer-ico' />
+            </a>
         </FooterContainer>
 
     )
