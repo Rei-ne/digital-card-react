@@ -29,31 +29,37 @@ h3{
     margin-bottom: 4px;
 
 }
+${'' /* about and interests heading */}
 h2{
     text-align: left;
     padding: 0px 10px;
-    margin-bottom: 0;
-    font-size: 18.24px;
+    margin-bottom: 2px;
+    font-size: 15.24px;
 
 
 }
 p{
-    font-size: 10.24px;
+    font-size: 10.54px;
     font-weight: 400;
     margin-top: 0;
     line-height: 13px;
     text-align: left;
     padding: 0px 10px;
     margin-bottom: 2px;
-    width: 90%;
+    max-width: 90%;
     color: #222831;
-
-
-word-wrap: break-word;
+    word-wrap: break-word;
 }
 @media (min-width: 768px) {
     p{
-        font-size: 13.24px;
+        font-size: 11.24px;
+
+    }
+    .textDiv{
+        margin-left: 8px;
+    }
+    h2{
+        font-size: 15.24px;
     }
 }
 `;

@@ -12,32 +12,34 @@ const Container = () => {
                 <h3>Frontend Developer</h3>
             </div>
             {/* link buttons */}
-            <div>
-                <a href="#" >
-                    <MyButton> Resume
-                    </MyButton>
-                </a>
-                <a href="https://github.com/Rei-ne" target="_blank">
-                    <MyButton className='github-btn'>
-                        <FaGithubSquare className='faGithub' />
-                        Github
-                    </MyButton>
-                </a>
 
-            </div>
+            <a href="#" >
+                <MyButton> Resume
+                </MyButton>
+            </a>
+            <a href="https://github.com/Rei-ne" target="_blank">
+                <MyButton className='github-btn'>
+                    <FaGithubSquare className='faGithub' />
+                    Github
+                </MyButton>
+            </a>
+
+
             {/* about */}
-
-            <h2>About me</h2>
-            <p>I am a frontend developer interested in blockchain technologies, user experience design and software engineering.
-                <br /> I look forward to building world class applications that would impact the world!</p>
+            <div className='textDiv'>
 
 
-            {/* interests */}
+                <h2>About me</h2>
+                <p>I am Toyosi, a frontend developer interested in blockchain technologies, user experience design and software engineering.
+                    <br /> I look forward to building world class applications that would impact the world!</p>
 
-            <h2>My interests</h2>
-            <p>I love art, music, and watching football.
-                <br />When i'm not coding, i'm listening to music or hanging out with my friends and listening to music with them <span>😀 </span> </p>
 
+                {/* interests */}
+
+                <h2>My interests</h2>
+                <p>I love art, music, and watching football.
+                    <br />When i'm not coding, i'm listening to music or hanging out with my friends and listening to music with them <span>😀 </span> </p>
+            </div>
 
         </StlyedContainer>
     )

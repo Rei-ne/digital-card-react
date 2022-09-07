@@ -12,6 +12,12 @@ padding: 10px 0;
 .github-btn{
     margin-top: 5px;
 }
+@media (min-width:200px) and (max-width:540px){
+    .github-btn{
+    margin-left: 35px;
+}
+
+    }
 
 .github-btn:hover{
     cursor: pointer;
@@ -21,5 +27,6 @@ padding: 10px 0;
 
 .faGithub{
         margin-right:7px;
+
     }
 `;

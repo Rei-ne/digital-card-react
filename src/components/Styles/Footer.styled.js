@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const FooterContainer = styled.footer`
 width: 317px;
-height: 60px;
+height: 55px;
 display: flex;
 align-items: center;
 justify-content: center;
@@ -18,4 +18,11 @@ a{
 a:hover{
    color: #222831;
 }
+@media (min-width:200px) and (max-width:540px){
+
+   max-width: 100%;
+
+
+}
+
 `;

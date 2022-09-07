@@ -9,18 +9,18 @@ import { FooterContainer } from './Styles/Footer.styled'
 const Footer = () => {
     return (
         <FooterContainer>
-            <a href="https://github.com/Rei-ne" target="_blank">
+            <a href="https://open.spotify.com/user/31iptodfoldd453eq6tbmv4x6qlu" target="_blank">
                 <FaSpotify className='footer-ico'
                 />
             </a>
-            <a href="https://github.com/Rei-ne" target="_blank">
+            <a href="https://twitter.com/Reine_Dev" target="_blank">
                 <FaTwitter className='footer-ico' />
             </a>
 
-            <a href="https://github.com/Rei-ne" target="_blank">
+            <a href="https://www.linkedin.com/in/toyosi-odukale/" target="_blank">
                 <FaLinkedin className='footer-ico' />
             </a>
-            <a href="https://github.com/Rei-ne" target="_blank">
+            <a href="https://www.instagram.com/reine_dev/" target="_blank">
                 <FaInstagramSquare className='footer-ico' />
             </a>
         </FooterContainer>
