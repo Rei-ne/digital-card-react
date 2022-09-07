@@ -13,7 +13,7 @@ h1{
     text-align: center;
 
     margin: 0;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.08rem;
     font-size: 25px;
     padding: 5px;
 }
@@ -49,6 +49,10 @@ p{
     max-width: 90%;
     color: #222831;
     word-wrap: break-word;
+
+}
+.textDiv {
+    margin-left: 9px;
 }
 @media (min-width: 768px) {
     p{
@@ -57,6 +61,8 @@ p{
     }
     .textDiv{
         margin-left: 8px;
+
+
     }
     h2{
         font-size: 14.24px;

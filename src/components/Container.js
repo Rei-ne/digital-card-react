@@ -30,8 +30,9 @@ const Container = () => {
 
 
                 <h2>About me</h2>
-                <p>I am Toyosi, a frontend developer interested in blockchain technologies, user experience design and software engineering.
-                    <br /> I look forward to building world class applications that would impact the world!</p>
+                <p>I am Toyosi/TY, a frontend developer interested in blockchain technologies, user experience design and software engineering.
+                    <br /> I look forward to building amazing, user friendly,
+                    <br />scalable applications that would impact the world!</p>
 
 
                 {/* interests */}
@@ -39,6 +40,7 @@ const Container = () => {
                 <h2>My interests</h2>
                 <p>I love art, music, and watching football.
                     <br />When i'm not coding, i'm listening to music or hanging out with my friends and listening to music with them <span>😀 </span> </p>
+
             </div>
 
         </StlyedContainer>
