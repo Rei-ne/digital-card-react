@@ -1,5 +1,5 @@
 # My Digital Card
 
-- Made with React Styled components
+I made a digital [card](https://whoisreine.netlify.app/) about myself and my interests
 
-- View live [here](https://whoisreine.netlify.app/)
+- Made with React [Styled](https://styled-components.com/docs/basics) components

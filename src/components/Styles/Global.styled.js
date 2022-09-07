@@ -7,7 +7,15 @@ body {
     transition: all 0.50s linear;
 margin: 0;
 padding: 10px 0;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+align-self: center;
 
+}
+a{
+    text-decoration: none;
 }
 .github-btn{
     margin-top: 5px;

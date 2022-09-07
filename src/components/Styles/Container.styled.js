@@ -34,7 +34,7 @@ h2{
     text-align: left;
     padding: 0px 10px;
     margin-bottom: 2px;
-    font-size: 15.24px;
+    font-size: 14.24px;
 
 
 }
@@ -59,7 +59,7 @@ p{
         margin-left: 8px;
     }
     h2{
-        font-size: 15.24px;
+        font-size: 14.24px;
     }
 }
 `;
