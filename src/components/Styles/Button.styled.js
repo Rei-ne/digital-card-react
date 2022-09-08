@@ -9,9 +9,15 @@ height: 34px;
 border-radius: 6px;
 outline: none;
 padding:10px;
-    border: none;
+border: none;
+cursor: pointer;
+:hover{
+    cursor: pointer;
+    background-color:#5C7A9D;
+    transition: all 0.4s ease-in;
+}
 
-    @media (min-width:200px) and (max-width:540px){
+@media (min-width:200px) and (max-width:540px){
         width: 35%;
         padding: 10px;
         margin-left: 20px;

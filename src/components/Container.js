@@ -13,7 +13,7 @@ const Container = () => {
             </div>
             {/* link buttons */}
 
-            <a href="#" >
+            <a href="https://docs.google.com/document/d/e/2PACX-1vQ-pekbNPkwSj2jdD1zm8c3qRBvIHA9w-NDk6UnonPC_KEzOKOOpE-5pSpzCeb3AH8Xtg75i-ilzysj/pub?embedded=true" target="_blank" >
                 <MyButton> Resume
                 </MyButton>
             </a>
