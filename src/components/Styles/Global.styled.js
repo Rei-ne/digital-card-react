@@ -5,13 +5,13 @@ body {
     background:#b5cae0;
     font-family: Inter, sans-serif;
     transition: all 0.50s linear;
-margin: 0;
-padding: 10px 0;
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-align-self: center;
+    margin: 0;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
 
 }
 a{
@@ -25,13 +25,10 @@ a{
 
     }
 
-.github-btn:hover{
-    cursor: pointer;
-    background-color:#5C7A9D;
-    transition: all 0.4s ease-in;
-}
+
 
 .faGithub{
+
         margin-right:7px;
 
     }

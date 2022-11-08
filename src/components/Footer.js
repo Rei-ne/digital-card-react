@@ -13,14 +13,14 @@ const Footer = () => {
                 <FaSpotify className='footer-ico'
                 />
             </a>
-            <a href="https://twitter.com/Reine_Dev" target="_blank">
+            <a href="#" >
                 <FaTwitter className='footer-ico' />
             </a>
 
             <a href="https://www.linkedin.com/in/toyosi-odukale/" target="_blank">
                 <FaLinkedin className='footer-ico' />
             </a>
-            <a href="https://www.instagram.com/reine_dev/" target="_blank">
+            <a href="#">
                 <FaInstagramSquare className='footer-ico' />
             </a>
         </FooterContainer>

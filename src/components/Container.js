@@ -12,8 +12,8 @@ const Container = () => {
                 <h3>Frontend Developer</h3>
             </div>
             {/* link buttons */}
-            {/*
-            <a href="#" >
+
+            {/* <a href="#" >
                 <MyButton> Resume
                 </MyButton>
             </a> */}
