@@ -85,7 +85,7 @@ p{
 
     }
     .textDiv{
-        margin: 0;
+        margin-left: 8px;
 
 
     }
