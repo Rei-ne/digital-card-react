@@ -72,15 +72,16 @@ p{
 
     }
     h2{
-        font-size: 14.24px;
+        font-size: 15.24px;
     }
 }
 @media (max-width: 768px) {
+    h2{
+        font-size: 15.24px;
+    }
     p{
-        font-size: 15px;
+        font-size: 14px;
         line-height: 18px;
-
-
 
     }
     .textDiv{
