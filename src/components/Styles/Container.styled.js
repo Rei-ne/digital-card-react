@@ -42,7 +42,7 @@ p{
     font-size: 10.54px;
     font-weight: 400;
     margin-top: 0;
-    line-height: 13px;
+    line-height: 18px;
     text-align: left;
     padding: 0px 10px;
     margin-bottom: 2px;
@@ -54,6 +54,11 @@ p{
 .textDiv {
     margin-left: 9px;
 }
+.buttonDiv{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
 @media (min-width: 768px) {
     p{
         font-size: 11.24px;
@@ -63,9 +68,16 @@ p{
         margin-left: 8px;
 
 
+
     }
     h2{
         font-size: 14.24px;
+    }
+}
+@media (max-width: 768px) {
+    p{
+        font-size: 13.24px;
+        line-height: 18px;
     }
 }
 `;

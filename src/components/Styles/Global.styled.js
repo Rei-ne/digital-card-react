@@ -17,13 +17,11 @@ align-self: center;
 a{
     text-decoration: none;
 }
-.github-btn{
-    margin-top: 5px;
-}
+
 @media (min-width:200px) and (max-width:540px){
-    .github-btn{
+    ${'' /* .github-btn{
     margin-left: 35px;
-}
+} */}
 
     }
 

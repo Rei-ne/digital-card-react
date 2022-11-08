@@ -5,8 +5,7 @@ width: 317px;
 height: 55px;
 display: flex;
 align-items: center;
-justify-content: center;
-gap: 24px;
+justify-content: space-around;
 background: #5c7a9d;
 border-radius: 0px 0px 10px 10px;
 border-top: 0.8px solid #222831;
@@ -14,9 +13,13 @@ border-top: 0.8px solid #222831;
 a{
     text-decoration: none;
     color: black;
+
 }
 a:hover{
    color: #222831;
+}
+.footer-ico{
+   height:80px;
 }
 @media (min-width:200px) and (max-width:540px){
 

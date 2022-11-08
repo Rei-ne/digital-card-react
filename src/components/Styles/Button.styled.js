@@ -2,19 +2,18 @@ import styled from 'styled-components'
 
 export const MyButton = styled.button`
 color: #222831;
-margin-left: 20px;
-margin-top: 15px;
-width: 115px;
+margin: 10px;
+width: 190px;
 height: 34px;
-border-radius: 6px;
+border-radius: 8px;
 outline: none;
-padding:10px;
-    border: none;
-
+padding:7px;
+border: 0.8px solid #84acd6;
+background-color: inherit;
     @media (min-width:200px) and (max-width:540px){
-        width: 35%;
+
         padding: 10px;
-        margin-left: 20px;
+
         height: auto;
 
     }
