@@ -8,7 +8,8 @@ height: 34px;
 border-radius: 8px;
 outline: none;
 padding:7px;
-border: 0.8px solid #84acd6;
+border: 0.8px solid linear-gradient( #84acd6, #5C7A9D);
+;
 background-color: #b5cae0;
 :hover{
     cursor: pointer;

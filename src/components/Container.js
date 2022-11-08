@@ -33,7 +33,7 @@ const Container = () => {
 
 
                 <h2>About me</h2>
-                <p>I am Toyosi/TY, a software developer interested in blockchain technologies, user experience design and software engineering.
+                <p>I am Toyosi/TY, a software developer interested in frontend web development, blockchain technologies, user experience design and software engineering.
                     {/* <br /> I look forward to building amazing, user friendly,
                     <br />scalable applications that would impact the world! */}</p>
 
