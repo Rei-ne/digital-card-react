@@ -10,6 +10,11 @@ outline: none;
 padding:7px;
 border: 0.8px solid #84acd6;
 background-color: inherit;
+:hover{
+    cursor: pointer;
+    background-color: #b5cae0;
+    transition: all 0.8s ease-in;
+}
     @media (min-width:200px) and (max-width:540px){
 
         padding: 10px;

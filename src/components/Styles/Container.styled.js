@@ -59,6 +59,7 @@ p{
     align-items: center;
     justify-content: center;
 }
+
 @media (min-width: 768px) {
     p{
         font-size: 11.24px;
