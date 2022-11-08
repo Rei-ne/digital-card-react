@@ -77,8 +77,16 @@ p{
 }
 @media (max-width: 768px) {
     p{
-        font-size: 13.24px;
+        font-size: 15px;
         line-height: 18px;
+
+
+
+    }
+    .textDiv{
+        margin: 0;
+
+
     }
 }
 `;

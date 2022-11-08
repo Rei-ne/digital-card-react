@@ -41,7 +41,7 @@ const Container = () => {
                 {/* interests */}
 
                 <h2>My interests</h2>
-                <p>I love art, music, and watching football.
+                <p>I love art, music, watching football and playing video games.
                     <br />When i'm not coding, i'm listening to music or hanging out with my friends and listening to music with them <span>😀 </span> </p>
 
             </div>
