@@ -8,25 +8,31 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 align-self: center;
-min-height: 98vh;
+height:600px;
 border-radius: 15px;
+margin: 10px 0;
+padding: 10px 0;
+
 
 @media (min-width:250px) and (max-width:540px){
-
-    max-width: 300px;
-
+    height:630px;
+    max-width: 310px;
+    border-radius: 15px 15px 0 0 ;
     img{
-        max-height: 30vh;
+        height: 150px;
         object-fit: cover;
+        margin-top: 2px;
     }
 }
 
 
 img{
-    max-height: 40vh;
+
+    height: 220px;
     width: 100%;
     border-radius: 15px 15px 0 0 ;
-    margin: 0;
+    margin-top: 20px;
+
     padding: 0;
     object-fit: cover;
 
